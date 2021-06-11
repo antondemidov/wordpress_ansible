@@ -1,0 +1,14 @@
+---
+#MySQL Settings
+mysql_root_password: "SECRET"
+mysql_db: ""
+mysql_password: "SECRET"
+
+#HTTP Settings
+http_port: "80"
+
+#Virtual env
+http_envs: ['woocommerce-dev', 'woocommerce-qa']
+
+# Domain
+domain: "example.com"
